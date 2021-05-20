@@ -1,5 +1,6 @@
-#Readme
+# Read Me 
 
-## Setup 
+## Setup
 
-type 'git clone https://github.com/sedasakarya/learningSFDX.git' 
+type 'git clone https://github.com/sedasakarya/learningSFDX.git to get started!
+>>>>>>> readmeUpdate
